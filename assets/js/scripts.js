@@ -1,6 +1,6 @@
 /*
 Author       : Hash Theme.
-Template Name: Kidzton - Responsive School Template
+Template Name: Aubaine - Responsive School Template
 Version      : 1.0
 */
 
@@ -399,7 +399,7 @@ Table Of Contents end
 
         /* 18. TIMER JS */
 		
-        $('#clock').countdown('2023/12/31', function(event) {
+        $('#clock').countdown('2024/12/31', function(event) {
             var $this = $(this).html(event.strftime('' + '<h4>%d :<span>Days</span></h4>' + '<h4>%H :<span>hr</span></h4>' + '<h4>%M :<span>min</span></h4>' + '<h4>%S <span>sec</span></h4>'));
         });
 
