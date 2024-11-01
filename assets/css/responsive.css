@@ -112,7 +112,7 @@ Version      : 1.0
 	.testimonial-style-2-right:after {
 		top: -16px;
 		left: 50%;
-		border-bottom: 15px solid #0ec75b;
+		border-bottom: 15px solid rgb(0, 204, 255);
 		border-left: 15px solid transparent;
 		border-right: 15px solid transparent;
 		-webkit-transition: all 0.4s ease 0s;
@@ -305,7 +305,7 @@ Version      : 1.0
 	.testimonial-style-2-right:after {
 		top: -16px;
 		left: 50%;
-		border-bottom: 15px solid #0ec75b;
+		border-bottom: 15px solid rgb(0, 204, 255);
 		border-left: 15px solid transparent;
 		border-right: 15px solid transparent;
 		-webkit-transition: all 0.4s ease 0s;

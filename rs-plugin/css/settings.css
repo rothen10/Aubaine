@@ -216,7 +216,7 @@ background-color:rgb(45,49,54);
 padding:0px;
 }
 
-.tp-caption.middle_yellow {
+.tp-caption.middle_rgb(0, 204, 255) {
 position:absolute;
 color:rgb(251,213,114);
 font-weight:600;
@@ -229,7 +229,7 @@ border-style:none;
 white-space:nowrap;
 }
 
-.tp-caption.huge_thin_yellow {
+.tp-caption.huge_thin_rgb(0, 204, 255) {
 	position:absolute;
 color:rgb(251,213,114);
 font-weight:300;
