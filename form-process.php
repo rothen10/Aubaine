@@ -2,7 +2,7 @@
 /**
  * php file part for contact form validate
  *
- * @package Aubaine - Responsive School Template
+ * @package L' Aubaine - Responsive School Template
  */
     $name=$_POST['name'];
     $email=$_POST['email'];
@@ -10,7 +10,7 @@
     $subject=$_POST['subject'];
     $message=$_POST['message'];		
 	$from="From: $name $number $subject<$email>\r\nReturn-path: $email";
-	$subject="Aubaine - Responsive School Template";
+	$subject="L' Aubaine - Responsive School Template";
 	mail("shahadat.cse12@yahoo.com", $subject, $message, $from)
 
 ?>

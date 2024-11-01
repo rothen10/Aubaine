@@ -1,6 +1,6 @@
 /*
 Author       : Hash Theme.
-Template Name: Aubaine - Responsive School Template
+Template Name: L' Aubaine - Responsive School Template
 Version      : 1.0
 */
 
